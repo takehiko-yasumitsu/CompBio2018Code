@@ -10,6 +10,6 @@ int main(void){
   printf("%d", a);
   printf("%f", b);
   printf("%f", c);
-
+  
   return 0;
 }
